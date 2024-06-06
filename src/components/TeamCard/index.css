@@ -1,0 +1,24 @@
+.card {
+  /* background-color: #ffffff; */
+  border: 1px solid #ffffff;
+  margin: 10px;
+  /* opacity: 0.3; */
+  background: #ffffff33;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  /* margin-top:10px; */
+  width: 350px;
+}
+.team-image {
+  height: 100px;
+  margin: 10px;
+}
+.team-name {
+  color: #ffffff;
+  font-size: 20px;
+  padding-top: 20px;
+}

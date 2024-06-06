@@ -1,0 +1,50 @@
+.bg-Container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  /* height: 100vh; */
+  text-align: center;
+  padding: 50px;
+}
+.kxp {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+}
+.KKR {
+  background-color: #0f172a;
+}
+.SH {
+  background-color: #f26d22;
+}
+.MI {
+  background-color: #13418b;
+}
+
+.RCB {
+  background-color: #d91c1f;
+}
+.CSK {
+  background-color: #f7db00;
+}
+.RR {
+  background-image: linear-gradient(to bottom, #5755a7, #da237b);
+}
+.DC {
+  background-image: linear-gradient(to bottom, #13418b, #4f5db0);
+}
+.banner {
+  height: 400px;
+  width: 200vh;
+  padding: 10px;
+  margin-top: 40px;
+  margin-left: 30px;
+}
+.recent-list-items {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.latest-matches {
+  color: #ffffff;
+  margin-left: 40px;
+}
